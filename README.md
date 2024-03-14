@@ -24,7 +24,11 @@ Follow on [Twitter](https://twitter.com/magic__smoke)
 
 [Waiting list](https://mbs-shop.online/waitinglist)
 
+[Cooling Options](https://github.com/magic-blue-smoke/Dual-Edge-TPU-Adapter/issues/7)
+
 ![Adapter](TPU_Adapter_PCIe.jpg)
+
+**Note:** Picture show PCB Rev1 Version. PCB Rev2 has four mounting slots for cooling options. See Colling Options.
 
 ## m.2 BM version
 For Dual Edge TPU to be used in m.2 B- or M-key slot
